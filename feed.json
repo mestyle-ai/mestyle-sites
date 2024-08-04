@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "mestyle.ai",
+    "description": "",
+    "home_page_url": "https://mestyle.ai",
+    "feed_url": "https://mestyle.ai/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "MeStyle Team"
+    },
+    "items": [
+        {
+            "id": "https://mestyle.ai/test.html",
+            "url": "https://mestyle.ai/test.html",
+            "title": "Test",
+            "author": {
+                "name": "MeStyle Team"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-04T23:30:49+08:00",
+            "date_modified": "2024-08-04T23:30:54+08:00"
+        }
+    ]
+}
